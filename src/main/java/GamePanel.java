@@ -1,11 +1,9 @@
-package main;
+package main.java;
 
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
-import java.awt.PopupMenu;
-
 import javax.swing.JPanel;
 
 public class GamePanel extends JPanel implements Runnable {

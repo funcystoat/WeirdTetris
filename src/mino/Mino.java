@@ -3,8 +3,8 @@ package mino;
 import java.awt.Color;
 import java.awt.Graphics2D;
 
-import main.KeyHandler;
-import main.PlayManager;
+import main.java.KeyHandler;
+import main.java.PlayManager;
 
 public class Mino {
 	public Block blocks[] = new Block[4];
